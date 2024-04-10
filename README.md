@@ -21,4 +21,20 @@ Nesses grupos nao e permitido a comercializacao de remedios, coisas ilicitas,tam
 
 ## Dicas de Sobrevivencia na Irlanda
 
+- [Coisas Para Fazer Antes de Vir Para Dublin](antes_dublin.md)
+- [Coisas Para Fazer Depois de Chegar em Dublin](apos_dublin.md)
+- [Custo de Vida](custos_de_vida.md)
+- [Varios grupos de whatsapp](grupos.md)
+
+
+## Guias Da Irlanda
+- [Quase Tudo Sobre Emprego](emprego/empregos.md)
+- [Quase Tudo Sobre Moradia](moradia/dica_acomodacao.md)
+- [Quase Tudo Sobre Saude](saude/saude_na_irlanda.md)
+- [Quase Tudo Sobre Transporte](transporte/leapcard.md)
+- [Quase Tudo Sobre IRP](irp/guia_irp.md)
+- [Quase Tudo Sobre PPS](pps/saga_do_pps.md)
+- [Quase Tudo Sobre Impostos](revenue/faq_revenue.md)
+- [Dicas Acumudalas no grupo](dicas/dicas_gerais.md)
+
 
